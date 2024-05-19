@@ -1,0 +1,19 @@
+.dropdown {
+  display: none;
+}
+
+.dropdown ul {
+  height: 400px;
+  position: absolute;
+  list-style: none;
+  background-color: gray;
+  width: 300px;
+  text-align: left;
+  font-size: 1.5rem;
+  border: solid 2px black;
+}
+
+.dropdown ul li {
+  margin-top: 40px;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,42 @@
+.container {
+  background-color: #27A442;
+}
+
+.navbar {
+  background-color: #27A442;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-line-pack: justify;
+      align-content: space-between;
+}
+
+.iconMenu {
+  width: 50px;
+  text-align: center;
+  margin-left: 20px;
+}
+
+.title-software h1 {
+  font-size: 2rem;
+  margin: 0;
+  text-align: center;
+  font-family: 'Griffy', cursive;
+  font-weight: lighter;
+  color: white;
+}
+
+.userName h1 {
+  font-size: 1.0rem;
+  margin: 0;
+  text-align: center;
+}
+
+.userCircle {
+  font-size: 2rem;
+  margin: 0px;
+  color: black;
+  background: white;
+  margin-right: 20px;
+}
+/*# sourceMappingURL=style.css.map */

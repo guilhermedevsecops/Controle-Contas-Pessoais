@@ -1,0 +1,93 @@
+.footer {
+  background-color: black;
+  margin-top: 20px;
+  color: white;
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-line-pack: end;
+      align-content: flex-end;
+}
+
+.footer .begin {
+  margin-top: 20px;
+  width: 250px;
+}
+
+.footer .begin ul {
+  list-style-type: none;
+}
+
+.footer .begin a {
+  text-decoration: none;
+}
+
+.footer .about {
+  margin-top: 20px;
+  margin-left: 2%;
+  width: 230px;
+}
+
+.footer .about ul {
+  list-style-type: none;
+}
+
+.footer .about a {
+  text-decoration: none;
+}
+
+.footer .suport {
+  margin-top: 20px;
+  margin-left: 2%;
+  width: 250px;
+}
+
+.footer .suport ul {
+  list-style-type: none;
+}
+
+.footer .suport a {
+  text-decoration: none;
+}
+
+.footer .icons-social-medias {
+  margin-top: 20px;
+}
+
+.footer .icons-social-medias ul {
+  list-style-type: none;
+}
+
+.footer .icons-social-medias ul li {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.footer .icons-social-medias a {
+  text-decoration: none;
+}
+
+.footer .developer {
+  margin-top: 20px;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.footer .developer p {
+  margin-top: 3px;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,15 @@
+.search-bar{
+    width:100%;
+    background-color: #252525;
+    height:60px;
+    text-align: center;
+    .search-camp{
+        width: 60%;
+        margin-top: 15px;
+        border-radius: 20px;
+    }
+    .search-button{
+        width: 80px;
+        margin-left: 10px;
+    }
+}
